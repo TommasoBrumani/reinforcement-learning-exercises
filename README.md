@@ -11,5 +11,6 @@ The base infrastructure of the models and environments was implemented by the co
 Each of the exercises has distinct specifications, which are provided in the 'documentation' folder inside of each exercise folder.
 
 ### File Systems Structure
-* `exN`: the folder containing the code and documentation for exercise 'N'
 * `common`: utility functions used throughout the exercises
+* `exN`: the folder containing the code and documentation for exercise 'N'
+* `final_project`: the folder containing the code and documentation for the course's final project
