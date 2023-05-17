@@ -2,6 +2,11 @@
 ## Overview
 The repository contains `Python` imeplementations of various <b>reinforcement learning</b> models, realized for the most part using `pyTorch`.
 
+### Authors
+The final project was carried out in pair:
+- <b>Tommaso Brumani</b> (tommaso.brumani@aalto.fi)
+- <b>Giacomo Mutti</b> (giacomo.mutti@aalto.fi)
+
 ### License
 The exercises were carried out as assignments for the 2022/2023 '<b>Reinforcement Learning</b>' course at <b>Aalto University</b>. 
 
